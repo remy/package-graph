@@ -16,5 +16,14 @@
     "ns-package-graph": "git+https://github.com/pmuellr/ns-package-graph.git",
     "proxyquire": "^1.7.10",
     "snyk-resolve-deps": "^1.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remy/package-graph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remy/package-graph/issues"
+  },
+  "homepage": "https://github.com/remy/package-graph#readme"
 }
