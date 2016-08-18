@@ -1,5 +1,5 @@
 {
-  "name": "rem-package-graph",
+  "name": "package-graph",
   "version": "1.0.0",
   "description": "visualize packages used (based on N|Source code)",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ns-package-graph": "index.js"
+    "package-graph": "index.js"
   },
   "keywords": [],
   "author": "Remy Sharp",
